@@ -34,6 +34,9 @@
 [submodule "magit"]
 	path = lib/magit
 	url = https://github.com/magit/magit.git
+[submodule "modus-themes"]
+	path = lib/modus-themes
+	url = https://github.com/protesilaos/modus-themes
 [submodule "transient"]
 	path = lib/transient
 	url = https://github.com/magit/transient.git
